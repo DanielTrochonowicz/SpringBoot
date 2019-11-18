@@ -47,7 +47,6 @@ public class User {
     @Column(name = "activation_code")
     private String activationCode;
 
-
     //gettery i settery
     public int getId() {
         return id;
